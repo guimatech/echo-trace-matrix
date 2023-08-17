@@ -10,7 +10,7 @@ Sistema de mapeamento de conversas gravadas em áudio ou vídeo para investigaç
 
 ## Objetivo
 
-Fazer algo parecido com esses sistemas visuais: <br />
+##### Fazer algo parecido com esses sistemas visuais:
 ![Quadro de crime com pinos e evidências conectadas com fio vermelho](quadro-de-crime-com-pinos-e-evidencias-conectadas-com-fio-vermelho.png)
 ![Interligado - Racha Cuca](interligado.gif)
 <span style="display: block; text-align: center;">**[Interligado - Racha Cuca](https://rachacuca.com.br/raciocinio/interligado/)**</span>
