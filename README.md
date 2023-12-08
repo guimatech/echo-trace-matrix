@@ -21,3 +21,7 @@ Sistema de mapeamento de conversas gravadas em áudio ou vídeo para investigaç
 - [ ] Transcrição de fala
 - [ ] Relacionamento de dados com similaridade, nomes pessoais e sinônimos
 - [ ] Buscar trechos de falas baseado em consultas escritas e marcar isso na linha do tempo da mídia reproduzida
+
+## Arquitetura
+
+![Desenho da arquitetura](desenho-arquitetura.png)
